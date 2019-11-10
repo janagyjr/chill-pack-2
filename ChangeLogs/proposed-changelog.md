@@ -1,7 +1,161 @@
 # TCG's Chill Pack Part Deux  
 ## ChangeLog
 
-### Alpha Release 0.1.1  
+## Alpha Release 0.2.0  
+### Client Changelog
+Important Note: Forge Version is 12.18.3.2511 and all mods reconfigured/added because reasons.  Also, if things seem mixed up, it's because they probably are. It happens.  
+
+Mods Added:  
+- Roost (1.1.0)  
+- Waystones (2.0.13)  
+- Just Enough Forestry Bees (1.0.4)  
+- AppleSkin (1.0.9)  
+- Thermal Solars (1.4)  
+- Thermal Smeltery (2.0.2)  
+- ProjectE (PE1.3.1)  
+- ReAuth (3.5.2)  
+- Pam's Harvestcraft (1.10.2j)  
+- Tinker's Tool Leveling (1.0.1)  
+- Immersive Petroleum (1.1.3)  
+- Immersive Cables (1.2.1)  
+- Just Enough Resources (0.5.9.3)  
+- Xnet (1.5.0)  
+- RogueLike Dungeons (1.5.9)  
+- Mekanism (9.2.4.103)  
+- Dynamic Surroundings (3.4.9.17)  
+- Quark (r1.1-70)  
+- The One Probe (1.4.19)  
+- Iron Backpacks (2.2.33)  
+- AutoRegLib (1.0-2)  
+- Mekanism Generators (9.2.4.103)  
+- Mekanism Tools (9.2.4.103)  
+- Malisis' Doors (5.2.0)  
+- Malisis' Core (4.4.0)  
+- Industrial Craft 2 (2.6.252-ex110)  
+- Fast Leaf Decay (v11)  
+- Environmental Tech (0.10.6b)  
+- Flux Networks (1.2.9)  
+- MrCrayFish's Furniture Mod (4.1.2)  
+- Headcrumbs (2.0.3)  
+- Just Enough Harvestcraft (1.2.2)  
+- Cyclic (1.12.30)  
+- Tomb Many Graves (2.1.16)  
+- mcmultipart (1.4.0-universal)  
+
+
+Mods Updated:  
+- Advanced Chimneys (1.2.8.0-build.0061)  
+- ForgeEnderTech (1.3.4.0-build.0057)  
+- Applied Energistcis 2 (rv4-stable)  
+- AE2 Stuff (0.6.0.9)  
+- BDLib (1.12.4.25)  
+- AgriCraft (2.0.0-0.11.0-a21)  
+- Infinity Lib (0.11.0)  
+- Aroma1997 Core (1.9.4-1.1.1.2)  
+- Aroma1997s Dimensional World (1.9.4-1.2.0.7)  
+- Biome's O Plenty (5.0.0.2290-universal)  
+- Brandon's Core (2.1.14-137-universal)  
+- CodeChickenLib (2.5.9.320)  
+- Custom Main Menu (2.0.5)  
+- EnderCore (0.4.1.66-beta)  
+- EnderIO (3.1.193)  
+- EnderZoo (1.2.3.44)  
+- JEI (3.14.8.422)  
+- JEI Integration  (1.2.0.19)  
+- Block Drops (JEI Addon) (1.1.1)  
+- VeinMiner (1.9-0.38.2.624+127e28f)  
+- Actually Additions (r105)  
+- ArchitectureCraft (1.7.3)  
+- Baubles (1.3.13)  
+- Better Builders Wands (0.11.1.220+f8232fe)  
+- Better Storage Too (1.0.0.2)  
+- BiblioCraft (v2.2.5)  
+- Chameleon (2.3.0)  
+- Chisel's and Bits (12.18)  
+- Drawers and Bits (0.36)  
+- Storage Drawers (3.7.10)  
+- Botania (r1.9-341)  
+- Chest Transporter (2.5.18)  
+- Chicken Chunks (2.2.0.52-universal)  
+- CodeChicken Core (2.4.1.102-universal)  
+- Chickens (4.3.2)  
+- More Chickens (1.1.7)  
+- Chisel (0.2.1.47)  
+- CTM (03.2.35)  
+- CompactStorage (2.2)  
+- Crafting Tweaks (6.1.16)  
+- Inventory Tweaks (1.62-dev-66)  
+- Mouse Tweaks (2.8)  
+- DecoCraft2 (2.5.2)  
+- Ender Storage 1.8+ (2.2.1.106-universal)  
+- Energy Converters (1.0.0.26)  
+- Extra Planets (1.2.9)  
+- MJRLegends Lib (1.1.6)  
+- Extra Utilities 2 (1.9.9)  
+- CompatLayer (0.3.1)  
+- FTB Library (1.1x-3.6.5)  
+- FTB Utilities (1.1x-3.6.5)  
+- Extra Golems (6.0.2)  
+- Tinker's Construct (2.6.5)  
+- Tinker's Golem's Addon (6.02.1)  
+- Storage Drawers Extras (1.1.0)  
+- Draconic Evolution (2.1.8.273-universal)  
+- BotaniaVisualizer (1.0)  
+- Angel Ring to Bauble (0.2.4.19+d71eb9e)  
+- JourneyMap (5.5.2)  
+- Mantle (1.1.5)  
+- Bed Bugs (1.1.6)  
+- Cooking for Blockheads (4.2.45)  
+- CraftTweaker (3.0.26)  
+- Railcraft (10.4.1)  
+- Mystical Agriculture (1.5.10)  
+- Mystical Agradditions (1.0.4)  
+- p455w0rdslib (1.0.35)  
+- Wireless Crafting Terminal (2.1.49)  
+- Mine Factory Reloaded (2.9.0B1-230)  
+- Forestry (5.2.17.391)  
+- Moo Fluids (1.7.02.12b)  
+- Ranchable Fluid Cows (1.2.0B1)  
+- ExtraCells2 (2.4.4a15)  
+- RFTools (7.16)  
+- RFTools Control (1.7.0)  
+- RFTools Dimensions (5.0.5)  
+- McJtyLib (2.5.3)  
+- Extreme Reactors (0.4.5.49)  
+- zerocore (0.1.2.2)  
+- Concrete (1.2)  
+- dbrownutil (1.1)  
+- Flat Colored Blocks (4.4)  
+- Unidict (2.9b)  
+- Wanion Lib (1.3)  
+- Tiny Progressions (1.2.6)  
+- TorchMaster (1.4.1.34)  
+- ViesCraft (5.5.1-final)  
+- MoarSigns (4.2.3.9)  
+- Nether Core (2.0.3)  
+- PlusTIC (5.2.1.3)  
+- ResourceLoader (1.5.1)  
+- Iron Chests (7.0.15.804)  
+- Thermal Dynamics (2.0.11.19-universal)  
+- Thermal Expansion (5.1.10.28-universal)  
+- Thermal Foundation (2.1.5.12-universal)  
+- CoFH Core (4.1.12.17-universal)  
+- Immersive Engineering (0.10-61)  
+- Galacticraft Core (4.0.2.190)  
+- Galacticraft Planets (4.0.2.190)  
+- mcdoodlecore (4.0.2.190)  
+- sonarcore (3.3.1)  
+
+Mods Removed:  
+- Hatchery  
+- BetterFPS  
+- Baconators
+- Everything else not listed that was in previous releases  
+
+Configuration Changes:  
+- N/A  
+
+## Alpha Release 0.1.1  
 Important Note:  
 Due to the issues of the last mod list, a new list has been generated, so everything will be going under "Mods Added" regardless of prior changelog updates.  
 
@@ -54,7 +208,7 @@ Mods Added:
 - Energy Convertors  
 - Galacticraft  
 - ExtraPlanets  
-- 
+-
 
 
 Mods Removed:  
