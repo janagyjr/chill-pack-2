@@ -41,6 +41,7 @@ Mods Added:
 - Cyclic (1.12.30)  
 - Tomb Many Graves (2.1.16)  
 - mcmultipart (1.4.0-universal)  
+- valkyrielib (0.10.6)
 
 
 Mods Updated:  
